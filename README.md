@@ -4,7 +4,8 @@
 
 以下のファイルを用意してください。
 
-- `lg_data.zip`
+- 下記releaseページから`lg_data.zip`をダウンロードします。
+- [lg_data.zip](https://github.com/coara-chocomaru/lg-ld290/releases/download/ld290/lg_data.zip)
 - Windows PC
 - USB ケーブル（データ通信可能なもの）
 
