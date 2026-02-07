@@ -114,7 +114,7 @@ Download image OK
 
 ### 完了画面例
 
-![Download image OK](https://raw.githubusercontent.com/coara-chocomaru/lg-ld290/refs/heads/main/02.jpg)
+![Download image OK](https://raw.githubusercontent.com/coara-chocomaru/lg-ld290/refs/heads/main/05.jpg)
 
 ---
 
