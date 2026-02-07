@@ -25,7 +25,7 @@
 展開したフォルダ内にある以下のパスを開きます。
 
 ```text
-lg_data\Driver\Driverinstall.exe
+lg_data\driver\Driverinstall.exe
 ```
 
 ### 手順
@@ -59,10 +59,10 @@ lg_data\RKDevTOOL.exe
 
 ### 手順
 
-1. USB ケーブルで **lg-ld290 ↔ PC** を接続
-2. 端末の **電源を入れ直す**
+1. USB ケーブルで **lg-ld290 ↔ PC** を接続してから
+2. ld290の **電源を入れ直す**
 
-### 正常に認識された状態
+### 正常に認識された場合
 
 RKDevTOOL 左下に以下の表示が出ます。
 
