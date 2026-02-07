@@ -106,7 +106,7 @@ Found One LOADER Device
 
 ## ⑦ 書き込み完了
 
-処理が正常に完了すると、以下の表示が出ます。
+処理が正常に完了すると、以下の表示が右側に出ます。
 
 ```text
 Download image OK
