@@ -7,8 +7,9 @@
 - 下記releaseページから`lg_data.zip`をダウンロードします。
 - [lg_data.zip](https://github.com/coara-chocomaru/lg-ld290/releases/download/ld290/lg_data.zip)
 - Windows PC
-- USB ケーブル（データ通信可能なもの）
-
+- lg-ld290
+- 端末専用の電源ケーブル
+- MicroUSB type-b ケーブル（データ通信可能なもの）
 ---
 
 ## ① lg_data.zip を展開
